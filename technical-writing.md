@@ -26,7 +26,7 @@
 
 특정 서비스에 사용자의 로그인 여부 상태에 따라서 UI를 다르게 표현해야 합니다.
 
-![writing-3](https://github.com/user-attachments/assets/f99b054c-0220-468c-8299-c4ba78e6a31e)
+<img src="https://github.com/user-attachments/assets/f99b054c-0220-468c-8299-c4ba78e6a31e" height="400px"/>
 
 사용자가 아이디, 비밀번호를 입력하고 서비스에 로그인하면 **로그인 여부 데이터가 변하며**, UI가 다르게 표현됩니다.
 
