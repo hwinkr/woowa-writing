@@ -494,7 +494,3 @@ return (
 ```
 
 기존의 모달 컨텍스트만 있던 것에서, 토스트 컨텍스트만 추가했음에도 불구하고 코드의 구조가 굉장히 복잡해진 것을 확인할 수 있습니다. 이 현상을 provider hell이라고 합니다. [The React Context hell](https://dev.to/alfredosalzillo/the-react-context-hell-7p4) 블로그 내용에서 더 자세한 내용을 확인할 수 있습니다.
-
-# 지역에서 전역으로
-
-...
